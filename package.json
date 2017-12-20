@@ -1,0 +1,16 @@
+{
+  "name": "awsweb",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.163.0",
+    "babel-runtime": "^6.26.0",
+    "meteor-node-stubs": "^0.3.2",
+    "moment": "^2.19.3",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-router-dom": "^4.2.2"
+  }
+}
