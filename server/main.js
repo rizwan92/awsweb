@@ -8,8 +8,8 @@ var fs = require('fs');
 var path = require('path');
 var AWS = require('aws-sdk');
 AWS.config.update({
-    accessKeyId: "AKIAJSD5E5HY36H7MU5Q",
-    secretAccessKey: "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",
+    accessKeyId: "",
+    secretAccessKey: "",
     "region": "us-west-2"
 });
 var s3 = new AWS.S3({apiVersion: '2006-03-01'});
